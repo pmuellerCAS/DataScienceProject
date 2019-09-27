@@ -1,0 +1,10 @@
+Pooled vote collection:
+------------------------
+in the canton BE
+- Münchenwiler & Clavaleyres --> 'Münchenwiler und Clavaleyres'
+- Kirchdorf (BE), Jaberg & Noflen --> 'Kirchdorf, Jaberg, Noflen'
+- Deisswil bei Münchenbuchsee & Wiggiswil -> 'Wiggiswil und Deisswil bei Münchenbuchsee'
+- Ersigen, Niederösch & Oberösch --> 'Ersigen, Niederösch, Oberösch'
+- Wald (BE) & Niedermuhlern --> 'Wald und Niedermuhlern'
+- Mötschwil & Rüti bei Lyssach --> 'Mötschwil und Rüti bei Lyssach'
+- Höchstetten & Hellsau --> 'Höchstetten und Hellsau'

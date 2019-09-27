@@ -1,0 +1,49 @@
+Commune Fusions:
+-----------------
+between 1.1.2013 and 1.1.2014
+Canton AG:
+==========
+old communes:                               new commune:
+Hermetschwil-Staffelen & Bremgarten         Bremgarten (AG)
+Oberflachs & Schinznach                     Schinznach
+Endingen & Unterendingen                    Endingen
+
+Canton BE:
+==========
+old communes:                               new commune:
+Büren zum Hof, Etzelkofen, Fraubrunnen,...
+Grafenried, Limpach, Mülchi, Schalunen &
+Zauggenried                                 Fraubrunnen
+Bleiken bei Oberdiessbach & Oberdiessbach   Oberdiessbach
+Plagne & Vauffelin                          Sauge
+Diesse, Lamboing & Prêles                   Plateau de Diesse
+Höfen bei Thun, Niederstocken & Oberstocken Stocken-Höfen
+Gadmen & Innertkirchen                      Innertkirchen
+Kienersrüti & Uttigen                       Uttigen
+Jegenstorf, Münchringen & Scheunen          Jegenstorf
+
+Canton FR:
+==========
+old communes:                               new commune:
+Cerniat & Charmey                           Val-de-Charmey
+
+Canton GR:
+==========
+old communes:                               new commune:
+Castrisch, Duvin, Ilanz, Ladir, Luven,...
+Pigniu, Pitasch, Riein, Rueun, Ruschein,...
+Schnaus, Sevgein & Siat                     Ilanz/Glion
+
+Canton SO:
+==========
+old communes:                               new commune:
+Aetigkofen, Aetingen, Bibern, Brügglen,...
+Gossliwil, Hessigkofen, Küttigkofen,...
+Kyburg-Buchegg, Mühledorf & Tscheppach      Buchegg
+
+Canton VS:
+==========
+old communes:                               new commune:
+Betten & Martisberg                         Bettmeralp
+
+

@@ -1,0 +1,33 @@
+As per 1.9.2019
+
+Vote data sources:
+==================
+AG: https://www.ag.ch/app/pollag/index.php?url=id54278.html&date=20131124
+FR: http://votel.fr.ch/votel_archive/votelmaj/2013-11-24_vote/wahlenabstimmungen-24112013-ergebnis-eidg-02.csv
+LU: https://www.lu.ch/downloads/lu/jsd/wahlabst/20131124/w_rkgl00.htm
+GL: https://www.gl.ch/public/upload/assets/2755/2013_Volksab_24_11_2013.pdf
+JU: https://www.jura.ch/CHA/SCH/Votations/2013/Votations-du-24-novembre-2013/Initiative-populaire-Pour-des-salaires-equitables.html#result2601
+NE: https://www.ne.ch/autorites/CHAN/CHAN/elections-votations/stat/Pages/scrutins-federaux-avant-mars-2019.aspx
+SG: https://wab.sg.ch/vote/volksinitiative-1-12-fuer-gerechte-loehne/data-csv
+SH: https://www2.sh.ch/fileadmin/Redaktoren/Dokumente_nicht_im_Formularpool/Abstimmungen/2013/Resultate_2013-11-24.pdf
+SO: https://so.ch/fileadmin/internet/staatskanzlei/stk-regierungsdienste/pdf/abstimmungen-wahlen/2013/1zu12.pdf
+TI: https://www4.ti.ch/fileadmin/GENERALE/DIRITTIPOLITICI/votazioni/xlsx/2013/24-11-2013_F-1.xlsx
+VD: https://www.elections.vd.ch/votelec/CHVO20131124/Tableau/CHVO20131124-01.xlsx
+VS: https://votel.vs.ch/sites/votel2/FR/1/excel/vot/102/commune/1306/csv
+GR: https://www.gr.ch/DE/publikationen/abstimmungenwahlen/abstimmungen/resultate/Dateien_Urnengaenge/2013_11_24/E1_24-11-13.txt
+BE: https://www.sta.be.ch/sta/de/index/wahlen-abstimmungen/wahlen-abstimmungen/abstimmungen/ergebnisse_abstimmungen/2013.assetref/dam/documents/STA/AZD/de/abstimmungen/abstimmungsergebnisse/2013/wahlenabstimmungen-24112013-ergebnis-eidg-prov-02.csv
+ZH: https://wahlen-abstimmungen.zh.ch/internet/justiz_inneres/wahlen-abstimmungen/de/abstimmungen/abstimmungsarchiv.html?vorlageid=2401
+
+remaining cantons (FSO votedata): https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1703030000_101/px-x-1703030000_101/px-x-1703030000_101.px/table/tableViewLayout2/?rxid=56d7bde0-9456-402b-8776-ca8b1fbc972e
+
+Tax/Income data sources:
+========================
+www.estv2.admin.ch/d/dokumentation/
+zahlen_fakten/karten/2014/equivalent/Daten.xls
+
+Geospatial data sources:
+========================
+https://www.bfs.admin.ch/bfs/
+de/home/dienstleistungen/geostat/geodaten-bundesstatistik/
+administrative-grenzen/generalisierte-gemeindegrenzen.assetdetail.328824.html
+

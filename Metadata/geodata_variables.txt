@@ -1,0 +1,25 @@
+variable:           n       type                explanation:
+GMDNR               2356    non-null int64      official commune number (FSO)
+GMDNAME             2356    non-null object     commune name
+BZNR                2356    non-null int64      district number
+KTNR                2356    non-null int64      canton number
+GRNR                2356    non-null int64      greater region number
+AREA_HA             2356    non-null int64      size of the commune (hectares)
+X_MIN               2356    non-null int64      min x coordinate of minimum bounding rectangle (meters)
+X_MAX               2356    non-null int64      max x coordinate of minimum bounding rectangle (meters)
+Y_MIN               2356    non-null int64      min y coordinate of minimum bounding rectangle (meters)
+Y_MAX               2356    non-null int64      max y coordinate of minimum bounding rectangle (meters)
+X_CNTR              2356    non-null int64      centroid x coordinate (meters)
+Y_CNTR              2356    non-null int64      centroid y coordinate (meters)
+Z_MIN               2356    non-null int64      minimal height of the commune (meters above sea level)
+Z_MAX               2356    non-null int64      maximal height of the commune (meters above sea level)
+Z_AVG               2356    non-null int64      average height of the commune (meters above sea level)
+Z_MED               2356    non-null int64      median height of the commune (meters above sea level)
+geometry            2356    non-null object     polygon
+
+dtypes: int64(15), object(2)
+memory usage: 313.0+ KB
+
+Further information:
+---------------------
+Read geodata_explanation.pdf
